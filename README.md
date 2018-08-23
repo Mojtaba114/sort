@@ -17,3 +17,4 @@ list1=[2,3,7,1,0,-3,8,-8,10]
 sort_list(list1)
 
 print(list1)
+print('hi mojtaba')
